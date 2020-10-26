@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1032184308663-otc0se1e93lipvkcuar7sq9pchgg9o7r.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://kdimocalendar.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1032184308663</string>
+    <string name="google_api_key" translatable="false">AIzaSyDTVx7q2UQkpbNsKDsF71d7_C2LJ9Qv48g</string>
+    <string name="google_app_id" translatable="false">1:1032184308663:android:b3826684cd30bebd22fe32</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDTVx7q2UQkpbNsKDsF71d7_C2LJ9Qv48g</string>
+    <string name="google_storage_bucket" translatable="false">kdimocalendar.appspot.com</string>
+    <string name="project_id" translatable="false">kdimocalendar</string>
+</resources>

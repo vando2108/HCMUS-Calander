@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1032184308663",
+    "firebase_url": "https://kdimocalendar.firebaseio.com",
+    "project_id": "kdimocalendar",
+    "storage_bucket": "kdimocalendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032184308663:android:b3826684cd30bebd22fe32",
+        "android_client_info": {
+          "package_name": "com.example.Calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032184308663-otc0se1e93lipvkcuar7sq9pchgg9o7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVx7q2UQkpbNsKDsF71d7_C2LJ9Qv48g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032184308663-otc0se1e93lipvkcuar7sq9pchgg9o7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032184308663:android:93b6d227d4a623f622fe32",
+        "android_client_info": {
+          "package_name": "com.example.CalendarKdimo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032184308663-otc0se1e93lipvkcuar7sq9pchgg9o7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVx7q2UQkpbNsKDsF71d7_C2LJ9Qv48g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032184308663-otc0se1e93lipvkcuar7sq9pchgg9o7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
